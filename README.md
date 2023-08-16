@@ -6,4 +6,5 @@ Agriculture is crucial to the economy of any nation since it provides food and j
 # Cite the article 
 Gehlot, M., & Gandhi, G. C. (2023). “EffiNet-TS”: A deep interpretable architecture using EfficientNet for plant disease detection and visualization. Journal of Plant Diseases and Protection, 130(2), 413-430.
 DOI : https://doi.org/10.1007/s41348-023-00707-x
-https://link.springer.com/article/10.1007/s41348-023-00707-x
+
+**Article Link :** https://link.springer.com/article/10.1007/s41348-023-00707-x
